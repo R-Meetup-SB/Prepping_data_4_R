@@ -4,7 +4,7 @@ An R MeetUP to explore prepping data for analyses in R.
 
 ### Project Overview
 
-We will be using Caillie and Laura's project as an example of dealing with real data. Here is a quick overview of their project:
+We will be using Callie and Laura's project as an example of dealing with real data. Here is a quick overview of their project:
 
 Part of their group project at the Bren School is creating a marine spatial plan that identifies ideal vessel traffic routes that avoid hotspots of sperm whale activity to reduce whale-vessel strikes. To do this, we need to take multiple datasets and combine them with common characteristics to create one large database. 
 
